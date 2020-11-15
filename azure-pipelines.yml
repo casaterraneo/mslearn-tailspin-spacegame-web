@@ -2,7 +2,7 @@ trigger:
 - '*'
 
 pool:
-  name: 'AgentPoolAppB'
+  name: 'DockerComposeAgentPool'
   demands:
     - npm
 
