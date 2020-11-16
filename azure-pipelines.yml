@@ -6,8 +6,6 @@ pool:
   demands:
     - npm
 
-container: ubuntu:18.04
-
   
 variables:
   buildConfiguration: 'Release'
